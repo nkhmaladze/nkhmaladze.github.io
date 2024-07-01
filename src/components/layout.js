@@ -7,7 +7,7 @@ import { GlobalStyle, theme } from '@styles';
 const StyledContent = styled.div`
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 98vh;
 `;
 
 const Layout = ({ children, location }) => {
