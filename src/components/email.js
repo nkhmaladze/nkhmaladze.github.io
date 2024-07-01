@@ -14,7 +14,7 @@ const StyledLinkWrapper = styled.div`
     content: '';
     display: block;
     width: 1px;
-    height: 90px;
+    height: 100px;
     margin: 0 auto;
     background-color: var(--light-slate);
   }
