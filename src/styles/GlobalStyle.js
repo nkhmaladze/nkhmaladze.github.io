@@ -28,7 +28,7 @@ const GlobalStyle = createGlobalStyle`
   /* Provide basic, default focus styles.*/
   :focus {
     outline: 2px dashed var(--green);
-    outline-offset: 3px;
+    outline-offset: 4px;
   }
 
   /*
@@ -64,7 +64,7 @@ const GlobalStyle = createGlobalStyle`
   ::-webkit-scrollbar-thumb {
     background-color: var(--dark-slate);
     border: 3px solid var(--navy);
-    border-radius: 10px;
+    border-radius: 12px;
   }
 
   body {
