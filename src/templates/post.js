@@ -7,12 +7,12 @@ import styled from 'styled-components';
 import { Layout } from '@components';
 
 const StyledPostContainer = styled.main`
-  max-width: 1000px;
+  max-width: 1020px;
 `;
 const StyledPostHeader = styled.header`
-  margin-bottom: 50px;
+  margin-bottom: 80px;
   .tag {
-    margin-right: 10px;
+    margin-right: 30px;
   }
 `;
 const StyledPostContent = styled.div`
